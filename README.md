@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Nilesh Paradva</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nilesh-paradva&label=Profile%20views&color=0e75b6&style=flat" alt="nilesh-paradva" /> </p>
+
 - 🌱 I’m currently learning **Full Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://nileshparadva.netlify.app](https://nileshparadva.netlify.app)
