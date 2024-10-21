@@ -31,6 +31,6 @@
 |     8| DSA With C++ |
 |     9| React        |
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nilesh-paradva)](https://git.io/streak-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nilesh-paradva&layout=compact)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nilesh-paradva)](https://git.io/streak-stats)
