@@ -34,3 +34,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nilesh-paradva&layout=compact)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=nilesh-paradva)](https://git.io/streak-stats)
+
+
+# Contact Me :
+
+<a href="mailto:nileshparadva97@gmail.com">
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+</a>
+<a href="linkedin.com/in/nilesh-paradva">
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+</br>
