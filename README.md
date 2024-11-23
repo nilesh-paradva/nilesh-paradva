@@ -36,7 +36,7 @@
 |     6| C-Language   |
 |     7| Javascript   |
 |     8| DSA With C++ |
-|     9| React        |
+|     9| React.js     |
 </br>
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nilesh-paradva&layout=compact)
