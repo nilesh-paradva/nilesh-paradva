@@ -11,7 +11,7 @@
 - 📫 How to reach me **nileshparadva97@gmail.com**
 
 ### 🤝 Connect with me:
-<a href="https://www.linkedin.com/in/nilesh-paradva"> <img src="https://skillicons.dev/icons?i=linkedin" height="50"></a> 
+<a target = "_blank" href="https://www.linkedin.com/in/nilesh-paradva"> <img src="https://skillicons.dev/icons?i=linkedin" height="50"></a> 
 <a href="https://codepen.io/nilesh-paradva"> <img src="https://skillicons.dev/icons?i=codepen" height="50"></a> 
 <a href="mailto:nileshparadva97@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height="50"></a>
 
