@@ -18,20 +18,13 @@
  
 <h3>💼 Technical Skills</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nodejs,mongodb,express&perline=9)](https://skillicons.dev)
-<!-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) -->
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nextjs,nodejs,mongodb,express&perline=10)](https://skillicons.dev)
 
 <!--## 📈 GitHub Stats 
 
 [![Nilesh github stats](https://github-readme-stats.vercel.app/api?username=nilesh-paradva)](https://github.com/nilesh-paradva) -->
 
-</br>
+<!-- </br>
 
 | No | Languages |
 |-----:|--------------|
@@ -44,6 +37,7 @@
 |     7| Javascript   |
 |     8| DSA With C++ |
 |     9| React.js     |
+</br> --->
 </br>
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nilesh-paradva&layout=compact)
