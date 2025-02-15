@@ -14,11 +14,20 @@
 <a href="https://www.linkedin.com/in/nilesh-paradva"> <img src="https://skillicons.dev/icons?i=linkedin" height="48"></a>&nbsp;
 <a href="https://codepen.io/nilesh-paradva"> <img src="https://skillicons.dev/icons?i=codepen" height="48"></a>&nbsp; 
 <a href="mailto:nileshparadva97@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height="48"></a>
-
  
 <h3>💼 Technical Skills</h3>
+<a href="#"> <img src="https://skillicons.dev/icons?i=html" height="48"></a>&nbsp;
+<a href="#"> <img src="https://skillicons.dev/icons?i=css" height="48"></a>&nbsp; 
+<a href="#"> <img src="https://skillicons.dev/icons?i=c" height="48"></a>&nbsp;
+<a href="#"> <img src="https://skillicons.dev/icons?i=js" height="48"></a>&nbsp;
+<a href="#"> <img src="https://skillicons.dev/icons?i=bootstrap" height="48"></a>&nbsp;
+<a href="#"> <img src="https://skillicons.dev/icons?i=tailwind" height="48"></a>&nbsp;
+<a href="#"> <img src="https://skillicons.dev/icons?i=react" height="48"></a>&nbsp;
+<a href="#"> <img src="https://skillicons.dev/icons?i=nextjs" height="48"></a>&nbsp;
+<a href="#"> <img src="https://skillicons.dev/icons?i=nodejs" height="48"></a>&nbsp;
+<a href="#"> <img src="https://skillicons.dev/icons?i=mongodb" height="48"></a>&nbsp;
+<a href="#"> <img src="https://skillicons.dev/icons?i=express" height="48"></a>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,c,js,bootstrap,tailwind,react,nextjs,nodejs,mongodb,express&perline=11)](https://skillicons.dev)
 
 <!--## 📈 GitHub Stats 
 
@@ -38,6 +47,8 @@
 |     8| DSA With C++ |
 |     9| React.js     |
 </br> --->
+</br>
+</br>
 </br>
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nilesh-paradva&layout=compact)
