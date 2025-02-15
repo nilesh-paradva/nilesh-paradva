@@ -18,7 +18,7 @@
  
 <h3>💼 Technical Skills</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nextjs,nodejs,mongodb,express&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,c,js,bootstrap,tailwind,react,nextjs,nodejs,mongodb,express&perline=11)](https://skillicons.dev)
 
 <!--## 📈 GitHub Stats 
 
