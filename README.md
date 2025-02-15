@@ -1,4 +1,4 @@
-![logo](https://github.com/nilesh-paradva/nilesh-paradva/blob/main/Navy%20Geometric%20Technology%20LinkedIn%20Banner.png)
+![Image](https://github.com/user-attachments/assets/c33196b0-9244-4f1d-9877-bac7e73d8f89)
 <h1 align="center">Hi 👋, I'm Nilesh Paradva</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
