@@ -11,13 +11,12 @@
 - 📫 How to reach me **nileshparadva97@gmail.com**
 
 ### 🤝 Connect with me:
-<a target = "_blank" href="https://www.linkedin.com/in/nilesh-paradva"> <img src="https://skillicons.dev/icons?i=linkedin" height="50"></a> 
-<a href="https://codepen.io/nilesh-paradva"> <img src="https://skillicons.dev/icons?i=codepen" height="50"></a> 
-<a href="mailto:nileshparadva97@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height="50"></a>
+<a href="https://www.linkedin.com/in/nilesh-paradva"> <img src="https://skillicons.dev/icons?i=linkedin" height="48"></a>&nbsp;
+<a href="https://codepen.io/nilesh-paradva"> <img src="https://skillicons.dev/icons?i=codepen" height="48"></a>&nbsp; 
+<a href="mailto:nileshparadva97@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height="48"></a>
 
  
 <h3>💼 Technical Skills</h3>
-<br/>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nodejs,mongodb,express&perline=9)](https://skillicons.dev)
 <!-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
