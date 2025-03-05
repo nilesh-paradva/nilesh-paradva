@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/c33196b0-9244-4f1d-9877-bac7e73d8f89)
+![Image](https://github.com/user-attachments/assets/1fd3c2f0-e841-46b0-a394-4b3ebd71c06c)
 <h1 align="center">Hi 👋, I'm Nilesh Paradva</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
